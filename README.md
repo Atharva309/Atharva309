@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 ## 🌟 GitHub Stats
 ![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva309&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Atharva's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva309&theme=tokyonight)
+
 
 ## 🛠️ Projects
 
