@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, and Data Science, currently pursuing my MS in Data Science at UC Boulder. Here you'll find a collection of my projects showcasing my journey and skills.
 
 ## 🌟 GitHub Stats
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva309)](https://github.com/Atharva309/github-readme-stats)
 ## 🛠️ Projects
 
 ### 🚀 Notable ML Projects
