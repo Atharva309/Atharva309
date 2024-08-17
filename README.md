@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 
 ### 🚀 Other Projects
-- **[All My Repositories](https://github.com/Atharva309?tab=repositories)**: ive worked on multiple projects using Machine Learning, Natural Language Processing, Image Analysis, etc and also non AI/ML projects like App Development, Web dev, visualisations, etc.
+- **[All My Repositories](https://github.com/Atharva309?tab=repositories)**: I have worked on multiple projects involving Machine Learning, Natural Language Processing, and Image Analysis, as well as non-AI/ML projects like App Development, Web Development, Data Visualizations, and more.
 
 
 ## 💬 Connect with Me
