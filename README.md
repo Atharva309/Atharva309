@@ -21,10 +21,7 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 
 ### 🚀 Other Projects
-- **[Airline reservation App](https://github.com/Atharva309/AirlineReservation_FlutterApp)**: A flutter app for airline reservation
-- **[Sudoku solver](https://github.com/Atharva309/SudokuSolver)**: A Sudoku Solver Using Genetic Algorithm
-- **[Movie review sentiment analysis](https://github.com/Atharva309/MovieReview-SentimentAnalysis)**: Sentiment Analysis for Movie Reviews using bag or words and naive bayes classification
-- **[FIFA Dashboard](https://github.com/Atharva309/FifaDashboard)**: Fifa player interactive dashboard using tableau
+- **[All My Repositories](https://github.com/Atharva309?tab=repositories)**: ive worked on multiple projects using Machine Learning, Natural Language Processing, Image Analysis, etc and also non AI/ML projects like App Development, Web dev, visualisations, etc.
 
 
 ## 💬 Connect with Me
