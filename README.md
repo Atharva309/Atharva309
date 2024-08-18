@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 ### 🚀 Notable Data Visualisation Projects
 - **[Interactive Dashboard for Video Games - Power BI](https://github.com/Atharva309/Interactive-Video-Game-Dashboard-using-PowerBI)**: Interactive Video Game Dashboard using PowerBI
+- **[Interactive Dashboard for Car Sales using PowerBI](https://github.com/Atharva309/Car-Sales-Dashboard)**: A Advanced and Interactive Dashboard for Car Sales and more using PowerBI
 
 
 ### 🚀 Other Projects
