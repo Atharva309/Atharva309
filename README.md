@@ -26,7 +26,10 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/atharva-patil-714b77222/)
+-  <a href="https://www.linkedin.com/in/atharva-patil-714b77222/">
+        <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>&nbsp;&nbsp;
+
 
 ## 🎓 About Me
 I'm a student at UC Boulder with a keen interest in AI, ML, and data science. I'm constantly exploring new technologies and methodologies to solve real-world problems and enhance my skills.
