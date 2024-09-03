@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 ## 🌟 GitHub Stats
 
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva309&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="My Top Languages" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Atharva309&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="500" alt="Atharva's GitHub Stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva309&theme=tokyonight" width="500" alt="Atharva's GitHub Stats">
