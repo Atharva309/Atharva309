@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
 
 
 ## 💬 Connect with Me
--  <a href="https://www.linkedin.com/in/atharva-patil-714b77222/">
+<a href="https://www.linkedin.com/in/atharva-patil-714b77222/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 
 ## 🎓 About Me
