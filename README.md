@@ -34,6 +34,10 @@ Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, 
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Atharva309&label=Profile%20Views&color=0&pretty=false" />
+</a>
+
 
 ## 🎓 About Me
 I'm a student at UC Boulder with a keen interest in AI, ML, and data science. I'm constantly exploring new technologies and methodologies to solve real-world problems and enhance my skills.
