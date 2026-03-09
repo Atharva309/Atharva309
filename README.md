@@ -198,16 +198,6 @@ AI for a greener planet — classifying waste through image analysis using multi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atharva309&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
-
 ## 🎯 What I'm Up To
 
 - 🔭 Currently working on **AI Agentic systems** and **data-scale computing**
