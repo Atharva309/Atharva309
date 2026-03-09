@@ -1,5 +1,7 @@
+<div align="center">
+
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+Atharva+Patil;Data+Scientist+%7C+ML+Engineer+%7C+AI+Explorer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+Atharva+Patil;Data+Scientist+%7C+ML+Engineer+%7C+AI+Explorer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -70,30 +72,22 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Explainable AI — Diabetes Prediction
-<a href="https://github.com/Atharva309/XAI_diabetes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva309&repo=XAI_diabetes&theme=tokyonight&hide_border=true" />
-</a>
+### [🧠 Explainable AI — Diabetes Prediction](https://github.com/Atharva309/XAI_diabetes)
 
-**SHAP · LIME · ALE · CNN · MLP · RNN**
+![SHAP](https://img.shields.io/badge/SHAP-4B0082?style=flat-square) ![LIME](https://img.shields.io/badge/LIME-32CD32?style=flat-square) ![ALE](https://img.shields.io/badge/ALE-FF6347?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-1E90FF?style=flat-square) ![MLP](https://img.shields.io/badge/MLP-FF8C00?style=flat-square) ![RNN](https://img.shields.io/badge/RNN-9370DB?style=flat-square)
 
 Diabetes prediction using ML models with full explainability — because AI should be *transparent*, not a black box.
 
 </td>
 <td width="50%">
 
-### 🎨 Bob Ross Painting Generator
-<a href="https://github.com/Atharva309/BobRoss_Painting_Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva309&repo=BobRoss_Painting_Generator&theme=tokyonight&hide_border=true" />
-</a>
+### [🎨 Bob Ross Painting Generator](https://github.com/Atharva309/BobRoss_Painting_Generator)
 
-**GAN · Pix2Pix · Image-to-Image Translation**
+![GAN](https://img.shields.io/badge/GAN-FF1493?style=flat-square) ![Pix2Pix](https://img.shields.io/badge/Pix2Pix-8A2BE2?style=flat-square) ![Image Translation](https://img.shields.io/badge/Img2Img-20B2AA?style=flat-square)
 
 "We don't make mistakes, just happy little accidents." — This GAN makes happy little paintings! 🖌️
 
@@ -103,24 +97,18 @@ Diabetes prediction using ML models with full explainability — because AI shou
 <tr>
 <td width="50%">
 
-### 😴 Drowsiness Detection for Drivers
-<a href="https://github.com/Atharva309/Drowsiness_detection_driving">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva309&repo=Drowsiness_detection_driving&theme=tokyonight&hide_border=true" />
-</a>
+### [😴 Drowsiness Detection for Drivers](https://github.com/Atharva309/Drowsiness_detection_driving)
 
-**YOLOv5 · Computer Vision · Real-Time Detection**
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logoColor=black) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6347?style=flat-square) ![Real-Time](https://img.shields.io/badge/Real--Time-32CD32?style=flat-square)
 
 Keeping drivers awake and roads safe — real-time drowsiness detection through eye & yawn analysis.
 
 </td>
 <td width="50%">
 
-### ☁️ CloudSense
-<a href="https://github.com/Atharva309/CloudSense">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva309&repo=CloudSense&theme=tokyonight&hide_border=true" />
-</a>
+### [☁️ CloudSense](https://github.com/Atharva309/CloudSense)
 
-**Python · Data-Scale Computing · Cloud**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Data Scale](https://img.shields.io/badge/Data--Scale-FF8C00?style=flat-square)
 
 Scalable data processing and cloud computing — built for the DTSC-5253 course at CU Boulder.
 
@@ -130,32 +118,24 @@ Scalable data processing and cloud computing — built for the DTSC-5253 course 
 <tr>
 <td width="50%">
 
-### 🥔 Potato Leaf Disease Detection
-<a href="https://github.com/Atharva309/PotatoLeaf_DiseaseDetection_ImageClassification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva309&repo=PotatoLeaf_DiseaseDetection_ImageClassification&theme=tokyonight&hide_border=true" />
-</a>
+### [🥔 Potato Leaf Disease Detection](https://github.com/Atharva309/PotatoLeaf_DiseaseDetection_ImageClassification)
 
-**ResNet50V2 · Image Classification · Agriculture AI**
+![ResNet50V2](https://img.shields.io/badge/ResNet50V2-EE4C2C?style=flat-square) ![Image Classification](https://img.shields.io/badge/Image_Classification-1E90FF?style=flat-square) ![Agriculture AI](https://img.shields.io/badge/Agriculture_AI-228B22?style=flat-square)
 
 Classifying potato leaf diseases (early blight / late blight / healthy) with deep learning.
 
 </td>
 <td width="50%">
 
-### ♻️ Waste Classification
-<a href="https://github.com/Atharva309/Waste_Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva309&repo=Waste_Classification&theme=tokyonight&hide_border=true" />
-</a>
+### [♻️ Waste Classification](https://github.com/Atharva309/Waste_Classification)
 
-**MobileNet · ResNet · YOLO · Transfer Learning**
+![MobileNet](https://img.shields.io/badge/MobileNet-4B0082?style=flat-square) ![ResNet](https://img.shields.io/badge/ResNet-EE4C2C?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FFD700?style=flat-square)
 
 AI for a greener planet — classifying waste through image analysis using multiple CNN architectures.
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
