@@ -1,8 +1,3 @@
-# Hi, I'm Atharva Patil 👋
-
-Welcome to my GitHub profile! I'm a passionate student in AI, Machine Learning, and Data Science, currently pursuing my MS in Data Science at UC Boulder. Here you'll find a collection of my projects showcasing my journey and skills.
-<div align="center">
-
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=635&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+Atharva+Patil;Data+Scientist+%7C+ML+Engineer+%7C+AI+Explorer" alt="Typing SVG" /></a>
 
