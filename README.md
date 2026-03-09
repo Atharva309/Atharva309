@@ -192,12 +192,7 @@ AI for a greener planet — classifying waste through image analysis using multi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva309&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva309&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva309&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -208,20 +203,6 @@ AI for a greener planet — classifying waste through image analysis using multi
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Atharva309&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atharva309/Atharva309/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atharva309/Atharva309/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Atharva309/Atharva309/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
@@ -239,9 +220,11 @@ AI for a greener planet — classifying waste through image analysis using multi
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Favorite Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+> *"The key to artificial intelligence has always been the representation."*
+> 
+> — **Geoffrey Hinton**, Godfather of Deep Learning
 
 <br/><br/>
 
