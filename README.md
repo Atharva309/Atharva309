@@ -10,6 +10,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharva309.github.io/portfolio-website/)
 [![GitHub followers](https://img.shields.io/github/followers/Atharva309?logo=GitHub&style=for-the-badge&color=6C63FF)](https://github.com/Atharva309)
 [![GitHub Stars](https://img.shields.io/github/stars/Atharva309?logo=github&style=for-the-badge&color=6C63FF)](https://github.com/Atharva309?tab=stars)
 
@@ -24,6 +25,8 @@
 🎓 **MS in Data Science** @ **University of Colorado, Boulder**
 
 📍 Based in **Boulder, CO, USA**
+
+🌐 **Check out my full interactive portfolio:** [atharva309.github.io/portfolio-website](https://atharva309.github.io/portfolio-website/)
 
 🔬 Passionate about building **intelligent systems** that solve real-world problems — from **generative AI** to **computer vision** and **explainable machine learning**.
 
