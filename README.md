@@ -171,35 +171,106 @@ AI for a greener planet. Classifying waste materials through image analysis usin
 
 ## 📊 Data Analytics & Engineering
 
-*Transforming raw data into actionable insights and beautiful interactive dashboards.*
+*Transforming raw data into actionable insights and interactive narratives.*
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 🏟️ Project | 🛠️ Tool / Stack | 📝 Description |
-|:---|:---:|:---|
-| [**INFO-CarSales (Live)**](https://info-carsales-5n9dcu4q94har2hqqbwrye.streamlit.app/) | Streamlit (Python) | Production-ready dashboard tracking vehicle market shifts, dominant brands, and depreciation mechanics with dynamic semantic insights. |
-| [**Dashboard Architect (Live)**](https://dashboard-architect.onrender.com/#database) | Flask & PostgreSQL | Full-stack sales analytics system featuring cursor-based SQL stored procedures, `AFTER INSERT` triggers, and threshold alerts. |
-| [**FIFA Player Analytics**](https://github.com/Atharva309/FIFA_DASHBOARD) | Power BI / DAX | Interactive player stats, team analysis, and head-to-head comparisons using advanced DAX queries. |
-| [**Car Sales Analytics**](https://github.com/Atharva309/Car-Sales-Dashboard-PowerBI) | Power BI | Advanced interactive dashboard visualizing complex sales distributions and revenue metrics. |
-| [**Video Game Dashboard**](https://github.com/Atharva309/Interactive-Video-Game-Dashboard-using-PowerBI) | Power BI | Interactive global video game sales data analysis and insights. |
-| [**FIFA Dashboard (Tableau)**](https://github.com/Atharva309/FifaDashboard) | Tableau | Interactive FIFA player analysis built purely with Tableau. |
-| [**Asteroid Analysis**](https://github.com/Atharva309/Asteroid-Analysis) | PostgreSQL & R | Statistical data analysis of Near-Earth Objects using R and Liquibase for database versioning. |
+### [🏎️ INFO-CarSales (Live Demo)](https://info-carsales-5n9dcu4q94har2hqqbwrye.streamlit.app/)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-</div>
+Production-ready dashboard tracking vehicle market shifts, dominant brands, and depreciation mechanics with dynamic semantic insights.
+
+</td>
+<td width="50%">
+
+### [🏗️ Dashboard Architect (Live Demo)](https://dashboard-architect.onrender.com/#database)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
+
+Full-stack sales analytics system featuring cursor-based SQL stored procedures, `AFTER INSERT` triggers, and threshold alerts.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [⚽ FIFA Player Analytics](https://github.com/Atharva309/FIFA_DASHBOARD)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-005C84?style=flat-square)
+
+Interactive player stats, team analysis, and head-to-head comparisons using advanced DAX queries.
+
+</td>
+<td width="50%">
+
+### [☄️ Asteroid Analysis](https://github.com/Atharva309/Asteroid-Analysis)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
+
+Statistical data analysis of Near-Earth Objects (NEOs) using R and Liquibase for robust database versioning.
+
+</td>
+</tr>
+</table>
+
+**Other Analytics Explorations:**
+- [FIFA Dashboard (Tableau)](https://github.com/Atharva309/FifaDashboard) 
 
 ---
 
 ## ☁️ Cloud, Web & App Development
 
+*Building scalable backends and smooth user experiences across devices.*
+
+<table>
+<tr>
+<td width="50%">
+
+### [⛅ CloudSense](https://github.com/Atharva309/CloudSense)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+
+Scalable data processing and cloud computing infrastructure. Built to handle large-scale data workflows seamlessly.
+
+</td>
+<td width="50%">
+
+### [✈️ Airline Reservation App](https://github.com/Atharva309/AirlineReservation_FlutterApp)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square)
+
+A sleek, full-featured cross-platform mobile application for booking and managing airline reservations.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### [🤖 AgentSquared](https://github.com/Atharva309/AgentSquared)
+![Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square) ![QA](https://img.shields.io/badge/QA_&_Marketing-FF6F00?style=flat-square)
+
+An exploratory platform for AI Agentic Quality Assurance and Marketing automation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Beyond the Screen
+
+*Because a Data Scientist can't always be staring at arrays and tensors.*
+
 <div align="center">
 
-| 📱 Project | 🛠️ Stack | 📝 Description |
-|:---|:---:|:---|
-| [**CloudSense**](https://github.com/Atharva309/CloudSense) | Python / Cloud | Scalable data processing and cloud computing (DTSC-5253 at CU Boulder) |
-| [**Airline Reservation (Flutter)**](https://github.com/Atharva309/AirlineReservation_FlutterApp) | Flutter / Dart | A full-featured airline reservation cross-platform mobile app |
-| [**AgentSquared**](https://github.com/Atharva309/AgentSquared) | Agents | AI Agentic QA and Marketing platform |
+| 🎨 **Art & AI** | 🎧 **Vibes** | ☕ **Fuel** |
+|:---:|:---:|:---:|
+| I trained a GAN to paint happy little trees like **Bob Ross**. | Probably listening to lo-fi beats while debugging PyTorch models. | Fueled by an unhealthy amount of coffee and a passion for finding patterns. |
 
 </div>
+
+<br/>
+
+> *"The key to artificial intelligence has always been the representation."*
+> 
+> — **Geoffrey Hinton**, Godfather of Deep Learning
 
 ---
 
@@ -220,17 +291,9 @@ AI for a greener planet. Classifying waste materials through image analysis usin
 - 🤝 Open to collaborating on **Machine Learning**, **Data Science**, and **GenAI projects**
 - 💬 Ask me about **Python, PyTorch, Data Visualization, or how to build AI Agents!**
 
----
+<br/>
 
 <div align="center">
-
-### 💭 Favorite Quote
-
-> *"The key to artificial intelligence has always been the representation."*
-> 
-> — **Geoffrey Hinton**, Godfather of Deep Learning
-
-<br/><br/>
 
 **🌟 If you found any of my projects interesting, consider giving them a ⭐!**
 
