@@ -262,15 +262,9 @@ An exploratory platform for AI Agentic Quality Assurance and Marketing automatio
 
 | 🎨 **Art & AI** | 🎧 **Vibes** | ☕ **Fuel** |
 |:---:|:---:|:---:|
-| I trained a GAN to paint happy little trees like **Bob Ross**. | Probably listening to lo-fi beats while debugging PyTorch models. | Fueled by an unhealthy amount of coffee and a passion for finding patterns. |
+| I trained a GAN to paint happy little trees like **Bob Ross**. | Probably listening to some don toliver while debugging PyTorch models. | Fueled by an unhealthy amount of white monster and a passion for finding patterns. |
 
 </div>
-
-<br/>
-
-> *"The key to artificial intelligence has always been the representation."*
-> 
-> — **Geoffrey Hinton**, Godfather of Deep Learning
 
 ---
 
@@ -296,6 +290,12 @@ An exploratory platform for AI Agentic Quality Assurance and Marketing automatio
 <div align="center">
 
 **🌟 If you found any of my projects interesting, consider giving them a ⭐!**
+
+<br/>
+
+> *"The key to artificial intelligence has always been the representation."*
+> 
+> — **Geoffrey Hinton**, Godfather of Deep Learning
 
 <br/>
 
