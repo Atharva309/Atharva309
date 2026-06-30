@@ -25,11 +25,11 @@
 
 📍 Based in **Boulder, CO, USA**
 
-🔬 Passionate about building **intelligent systems** that solve real-world problems — from **computer vision** to **explainable AI** to **generative models**
+🔬 Passionate about building **intelligent systems** that solve real-world problems — from **generative AI** to **computer vision** and **explainable machine learning**.
 
-🚀 I love turning messy data into **beautiful stories** with interactive dashboards and compelling visualizations
+🚀 I love turning messy data into **beautiful stories** with interactive dashboards, and automating tedious workflows with **AI agents**.
 
-💡 Always exploring the intersection of **AI, cloud computing, and scalable data systems**
+💡 Always exploring the intersection of **AI, cloud computing, and scalable data systems**.
 
 <br clear="right"/>
 
@@ -41,97 +41,74 @@
 
 ### 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-### 📊 Data & Visualization
+### 📊 Data Analytics & Engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🌐 Web & App Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### ☁️ Cloud & DevOps
+### ☁️ Web, Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 Featured AI & Agentic Projects
+
+*The frontier of generative AI, large language models, and autonomous agents.*
 
 <table>
 <tr>
 <td width="50%">
 
-### [🧠 Explainable AI — Diabetes Prediction](https://github.com/Atharva309/XAI_diabetes)
+### [🕵️‍♂️ JobPilot (Live Demo)](https://job-hunter-dashboard-kf6x.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Atharva309/JobPilot)
 
-![SHAP](https://img.shields.io/badge/SHAP-4B0082?style=flat-square) ![LIME](https://img.shields.io/badge/LIME-32CD32?style=flat-square) ![ALE](https://img.shields.io/badge/ALE-FF6347?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-1E90FF?style=flat-square) ![MLP](https://img.shields.io/badge/MLP-FF8C00?style=flat-square) ![RNN](https://img.shields.io/badge/RNN-9370DB?style=flat-square)
+![Claude 3.5](https://img.shields.io/badge/Claude_3.5-D97757?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square)
 
-Diabetes prediction using ML models with full explainability — because AI should be *transparent*, not a black box.
-
-</td>
-<td width="50%">
-
-### [🎨 Bob Ross Painting Generator](https://github.com/Atharva309/BobRoss_Painting_Generator)
-
-![GAN](https://img.shields.io/badge/GAN-FF1493?style=flat-square) ![Pix2Pix](https://img.shields.io/badge/Pix2Pix-8A2BE2?style=flat-square) ![Image Translation](https://img.shields.io/badge/Img2Img-20B2AA?style=flat-square)
-
-"We don't make mistakes, just happy little accidents." — This GAN makes happy little paintings! 🖌️
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [😴 Drowsiness Detection for Drivers](https://github.com/Atharva309/Drowsiness_detection_driving)
-
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logoColor=black) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6347?style=flat-square) ![Real-Time](https://img.shields.io/badge/Real--Time-32CD32?style=flat-square)
-
-Keeping drivers awake and roads safe — real-time drowsiness detection through eye & yawn analysis.
+An automated, AI-powered job hunter dashboard. Scrapes career pages and uses **Claude 3.5 Sonnet** to semantically match job postings to your precise candidate profile. 
 
 </td>
 <td width="50%">
 
-### [☁️ CloudSense](https://github.com/Atharva309/CloudSense)
+### [🛡️ Privacy-Guard](https://github.com/Atharva309/Privacy-Guard)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Atharva309/Privacy-Guard)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Data Scale](https://img.shields.io/badge/Data--Scale-FF8C00?style=flat-square)
+![GPT-4o](https://img.shields.io/badge/GPT--4o--mini-10A37F?style=flat-square) ![Apple Vision](https://img.shields.io/badge/Apple_Vision-000000?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
 
-Scalable data processing and cloud computing — built for the DTSC-5253 course at CU Boulder.
+AI-powered PHI redaction for clinical documents. Uses advanced context-aware detection to precisely identify and redact sensitive patient data for healthcare compliance.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### [🥔 Potato Leaf Disease Detection](https://github.com/Atharva309/PotatoLeaf_DiseaseDetection_ImageClassification)
+### [📈 Meridian (Live Demo)](https://meridian-26kiwy8sz-atharva309s-projects.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Atharva309/Meridian)
 
-![ResNet50V2](https://img.shields.io/badge/ResNet50V2-EE4C2C?style=flat-square) ![Image Classification](https://img.shields.io/badge/Image_Classification-1E90FF?style=flat-square) ![Agriculture AI](https://img.shields.io/badge/Agriculture_AI-228B22?style=flat-square)
+![Mix Marketing](https://img.shields.io/badge/Mix_Marketing_Model-4B0082?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square)
 
-Classifying potato leaf diseases (early blight / late blight / healthy) with deep learning.
+A complete Marketing Mix Modeling workspace. Features budget optimization, diminishing-returns curves, and an integrated **Meridian AI Agent** to chat with your data.
 
 </td>
 <td width="50%">
 
-### [♻️ Waste Classification](https://github.com/Atharva309/Waste_Classification)
+### [🎨 Bob Ross GAN Generator](https://github.com/Atharva309/BobRoss_Painting_Generator)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Atharva309/BobRoss_Painting_Generator)
 
-![MobileNet](https://img.shields.io/badge/MobileNet-4B0082?style=flat-square) ![ResNet](https://img.shields.io/badge/ResNet-EE4C2C?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FFD700?style=flat-square)
+![GAN](https://img.shields.io/badge/GAN-FF1493?style=flat-square) ![Pix2Pix](https://img.shields.io/badge/Pix2Pix-8A2BE2?style=flat-square) ![Img2Img](https://img.shields.io/badge/Img2Img-20B2AA?style=flat-square)
 
-AI for a greener planet — classifying waste through image analysis using multiple CNN architectures.
+*"We don't make mistakes, just happy little accidents."* 
+Trained a Generative Adversarial Network (GAN) to generate beautiful landscape paintings in the style of Bob Ross.
 
 </td>
 </tr>
@@ -139,50 +116,88 @@ AI for a greener planet — classifying waste through image analysis using multi
 
 ---
 
-## 📊 Data Visualization Showcase
+## 🧠 Machine Learning & Computer Vision
+
+*Building intelligent predictive models and enabling machines to see the world.*
+
+<table>
+<tr>
+<td width="50%">
+
+### [💡 Explainable AI — Diabetes Prediction](https://github.com/Atharva309/XAI_diabetes)
+![SHAP](https://img.shields.io/badge/SHAP-4B0082?style=flat-square) ![LIME](https://img.shields.io/badge/LIME-32CD32?style=flat-square) ![ALE](https://img.shields.io/badge/ALE-FF6347?style=flat-square)
+
+Diabetes prediction using deep learning (CNN/RNN/MLP) with full explainability — ensuring AI models are *transparent*, not just black boxes.
+
+</td>
+<td width="50%">
+
+### [😴 Real-Time Drowsiness Detection](https://github.com/Atharva309/Drowsiness_detection_driving)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logoColor=black) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6347?style=flat-square) 
+
+Keeping drivers awake and roads safe. Real-time driver drowsiness detection through eye closure and yawn analysis using computer vision.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🥔 Potato Leaf Disease AI](https://github.com/Atharva309/PotatoLeaf_DiseaseDetection_ImageClassification)
+![ResNet50V2](https://img.shields.io/badge/ResNet50V2-EE4C2C?style=flat-square) ![Image Classification](https://img.shields.io/badge/Classification-1E90FF?style=flat-square) 
+
+Classifying potato leaf diseases (early blight, late blight, or healthy) to assist farmers using state-of-the-art deep convolutional networks.
+
+</td>
+<td width="50%">
+
+### [♻️ Waste Classification](https://github.com/Atharva309/Waste_Classification)
+![MobileNet](https://img.shields.io/badge/MobileNet-4B0082?style=flat-square) ![ResNet](https://img.shields.io/badge/ResNet-EE4C2C?style=flat-square) ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FFD700?style=flat-square)
+
+AI for a greener planet. Classifying waste materials through image analysis using multiple CNN architectures and transfer learning.
+
+</td>
+</tr>
+</table>
+
+**Other ML Explorations:**
+- [Spam Email Detection](https://github.com/Atharva309/SpamEmailDetection_Perceptron) (Perceptron Learning Algorithm)
+- [Movie Sentiment Analysis](https://github.com/Atharva309/MovieReview-SentimentAnalysis) (NLP, Naive Bayes Classification)
+- [Cervical Cancer Prediction](https://github.com/Atharva309/CervicalCancerPrediction) (Logistic Regression)
+- [House Price Regression](https://github.com/Atharva309/Comparing-Regression-Models-For-HousePricing) (Comparative Analysis of Regression Models)
+- [Function Approximation](https://github.com/Atharva309/FunctionApproximation_BackPropagation) (Neural Networks from scratch)
+- [Sudoku Solver](https://github.com/Atharva309/SudokuSolver) (Evolutionary Genetic Algorithms)
+
+---
+
+## 📊 Data Analytics & Engineering
+
+*Transforming raw data into actionable insights and beautiful interactive dashboards.*
 
 <div align="center">
 
-| 🏟️ Project | 🛠️ Tool | 📝 Description |
+| 🏟️ Project | 🛠️ Tool / Stack | 📝 Description |
 |:---|:---:|:---|
-| [**FIFA Player Dashboard**](https://github.com/Atharva309/FIFA_DASHBOARD) | Power BI | Interactive player stats, team analysis & head-to-head comparisons |
-| [**Car Sales Dashboard**](https://github.com/Atharva309/Car-Sales-Dashboard-PowerBI) | Power BI | Advanced interactive dashboard with DAX queries for sales analytics |
-| [**Video Game Dashboard**](https://github.com/Atharva309/Interactive-Video-Game-Dashboard-using-PowerBI) | Power BI | Interactive video game data analysis and insights |
-| [**FIFA Dashboard (Tableau)**](https://github.com/Atharva309/FifaDashboard) | Tableau | Interactive FIFA player analysis with Tableau |
+| [**INFO-CarSales (Live)**](https://info-carsales-5n9dcu4q94har2hqqbwrye.streamlit.app/) | Streamlit (Python) | Production-ready dashboard tracking vehicle market shifts, dominant brands, and depreciation mechanics with dynamic semantic insights. |
+| [**Dashboard Architect (Live)**](https://dashboard-architect.onrender.com/#database) | Flask & PostgreSQL | Full-stack sales analytics system featuring cursor-based SQL stored procedures, `AFTER INSERT` triggers, and threshold alerts. |
+| [**FIFA Player Analytics**](https://github.com/Atharva309/FIFA_DASHBOARD) | Power BI / DAX | Interactive player stats, team analysis, and head-to-head comparisons using advanced DAX queries. |
+| [**Car Sales Analytics**](https://github.com/Atharva309/Car-Sales-Dashboard-PowerBI) | Power BI | Advanced interactive dashboard visualizing complex sales distributions and revenue metrics. |
+| [**Video Game Dashboard**](https://github.com/Atharva309/Interactive-Video-Game-Dashboard-using-PowerBI) | Power BI | Interactive global video game sales data analysis and insights. |
+| [**FIFA Dashboard (Tableau)**](https://github.com/Atharva309/FifaDashboard) | Tableau | Interactive FIFA player analysis built purely with Tableau. |
+| [**Asteroid Analysis**](https://github.com/Atharva309/Asteroid-Analysis) | PostgreSQL & R | Statistical data analysis of Near-Earth Objects using R and Liquibase for database versioning. |
 
 </div>
 
 ---
 
-## 🧪 More ML & AI Projects
-
-<div align="center">
-
-| 🔬 Project | 🧠 Technique | 📝 What it Does |
-|:---|:---:|:---|
-| [**Spam Email Detection**](https://github.com/Atharva309/SpamEmailDetection_Perceptron) | Perceptron | Classifies spam vs ham emails using the Perceptron Learning Algorithm |
-| [**Movie Sentiment Analysis**](https://github.com/Atharva309/MovieReview-SentimentAnalysis) | Bag-of-Words + NB | NLP-based sentiment analysis on movie reviews |
-| [**Cervical Cancer Prediction**](https://github.com/Atharva309/CervicalCancerPrediction) | Logistic Regression | Predicting cervical cancer risk using regression analysis |
-| [**House Price Regression**](https://github.com/Atharva309/Comparing-Regression-Models-For-HousePricing) | Regression Models | Comparing various regression models for house pricing |
-| [**Function Approximation**](https://github.com/Atharva309/FunctionApproximation_BackPropagation) | Backpropagation | Approximating sin, cos, log & custom functions with neural networks |
-| [**Sudoku Solver**](https://github.com/Atharva309/SudokuSolver) | Genetic Algorithm | Solving Sudoku puzzles using evolutionary computation |
-| [**Recipe Recommender**](https://github.com/Atharva309/RecipeRecommender) | Cosine Similarity | Recommending recipes based on available ingredients |
-| [**Asteroid Analysis**](https://github.com/Atharva309/Asteroid-Analysis) | PostgreSQL + R | Asteroid data analysis using databases and statistical computing |
-
-</div>
-
----
-
-## 🌐 Web & App Development
+## ☁️ Cloud, Web & App Development
 
 <div align="center">
 
 | 📱 Project | 🛠️ Stack | 📝 Description |
 |:---|:---:|:---|
-| [**Airline Reservation (Flutter)**](https://github.com/Atharva309/AirlineReservation_FlutterApp) | Flutter / Dart | A full-featured airline reservation mobile app |
-| [**Airline Reservation (Web)**](https://github.com/Atharva309/airline_reservation_WebPage) | HTML / CSS / JS | Airline reservation website frontend |
-| [**Music Player**](https://github.com/Atharva309/javascript_music_player) | HTML / CSS / JS | A sleek music player built from scratch |
-| [**AgentSquared**](https://github.com/Atharva309/AgentSquared) | AI Agents | AI Agentic QA and Marketing platform |
+| [**CloudSense**](https://github.com/Atharva309/CloudSense) | Python / Cloud | Scalable data processing and cloud computing (DTSC-5253 at CU Boulder) |
+| [**Airline Reservation (Flutter)**](https://github.com/Atharva309/AirlineReservation_FlutterApp) | Flutter / Dart | A full-featured airline reservation cross-platform mobile app |
+| [**AgentSquared**](https://github.com/Atharva309/AgentSquared) | Agents | AI Agentic QA and Marketing platform |
 
 </div>
 
@@ -200,11 +215,10 @@ AI for a greener planet — classifying waste through image analysis using multi
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working on **AI Agentic systems** and **data-scale computing**
-- 🌱 Deepening my knowledge in **cloud-native ML pipelines** and **MLOps**
-- 🤝 Open to collaborating on **machine learning**, **data science**, and **AI projects**
-- 💬 Ask me about **Python, ML/AI, Data Visualization, or anything data!**
-- ⚡ Fun fact: I trained a GAN to paint like Bob Ross 🎨
+- 🔭 Currently engineering **AI Agentic systems**, **RAG pipelines**, and **data-scale applications**
+- 🌱 Deepening my knowledge in **Cloud-native ML (MLOps)** and **Large Language Models**
+- 🤝 Open to collaborating on **Machine Learning**, **Data Science**, and **GenAI projects**
+- 💬 Ask me about **Python, PyTorch, Data Visualization, or how to build AI Agents!**
 
 ---
 
